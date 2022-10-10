@@ -1,0 +1,15 @@
+footer{
+    h6{
+        display: flex;
+        justify-items: center;
+        align-items: center;
+        font-size: 15px;
+    }
+    height: 100px;
+    width: 100%;
+    color: white;
+    border-top: 2px solid white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
